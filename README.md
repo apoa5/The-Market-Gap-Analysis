@@ -5,6 +5,11 @@
 
 ---
 
+## Executive Summary
+The analysis of Open Food Facts snack products cleaned invalid nutrition entries, mapped messy category tags into readable buckets, and identified the under-served quadrant where protein is high and sugar is low. The notebook found a clear gap in the market for high-protein, low-sugar products, specifically products with at least 10g of protein and no more than 2g of sugar per 100g. The strongest business opportunity lies in a healthier snack segment that focuses on dairy and its alternatives.
+
+---
+
 ## 1. Business Context
 **Helix CPG Partners** advises major food manufacturers on new product development. Our newest client, a global snack manufacturer, wants to launch a "Healthy Snacking" line. They believe the market is oversaturated with sugary treats, but they lack the data to prove where the specific gaps are.
 
