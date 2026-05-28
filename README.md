@@ -10,6 +10,13 @@ The analysis of Open Food Facts snack products cleaned invalid nutrition entries
 
 ---
 
+## Project Links
+* **Notebook:** [https://colab.research.google.com/drive/1QvpbFkLztWPN3HHDKMJwKhpmj2btu8XD#scrollTo=bZYXB2pxsnJr]
+* **Dashboard:** [https://the-market-gap-analysis-ynlkzyuw8wnbbpumownt5s.streamlit.app/]
+* **Presentation:** [Add your slide deck link here]
+
+---
+
 ## 1. Business Context
 **Helix CPG Partners** advises major food manufacturers on new product development. Our newest client, a global snack manufacturer, wants to launch a "Healthy Snacking" line. They believe the market is oversaturated with sugary treats, but they lack the data to prove where the specific gaps are.
 
