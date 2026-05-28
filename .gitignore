@@ -1,5 +1,6 @@
 # Ignore dataset files and local environment files
-data/*.csv
+data/cleaned_openfoodfacts*.csv.gz
+data/cleaned_openfoodfacts*.csv
 data/*.parquet
 data/*.json
 data/*.zip
