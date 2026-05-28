@@ -17,10 +17,6 @@ The analysis of Open Food Facts snack products cleaned invalid nutrition entries
 
 ---
 
-## Technical Explanation
-**Data Cleaning:** The notebook starts by removing rows with missing or null values in sugars_100g, proteins_100g, and essential metadata such as product_name or category tags. It also filters out invalid nutrition values that are biologically impossible, like negative sugar/protein counts or unrealistically high totals. Outliers are handled by trimming extreme entries so that the analysis reflects a typical snack product distribution instead of data-entry errors. After cleaning, a normalization step standardizes the nutrient columns, making sugar and protein comparable on the same scale for quadrant scoring. This clean, normalized dataset then enables robust category mapping and reliable gap scoring.
----
-
 ## 1. Business Context
 **Helix CPG Partners** advises major food manufacturers on new product development. Our newest client, a global snack manufacturer, wants to launch a "Healthy Snacking" line. They believe the market is oversaturated with sugary treats, but they lack the data to prove where the specific gaps are.
 
