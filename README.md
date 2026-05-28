@@ -13,7 +13,7 @@ The analysis of Open Food Facts snack products cleaned invalid nutrition entries
 ## Project Links
 * **Notebook:** [https://colab.research.google.com/drive/1QvpbFkLztWPN3HHDKMJwKhpmj2btu8XD#scrollTo=bZYXB2pxsnJr]
 * **Dashboard:** [https://the-market-gap-analysis-ynlkzyuw8wnbbpumownt5s.streamlit.app/]
-* **Presentation:** [Add your slide deck link here]
+* **Presentation:** [https://drive.google.com/file/d/1j80-2tP3nWeFmCmHUP1xaVagDQc1WlaG/view?usp=drive_link]
 
 ---
 
